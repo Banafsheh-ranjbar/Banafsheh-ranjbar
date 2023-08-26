@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Banafsheh-ranjbar
-- 👀 I’m interested in Marketing, Digital Marketing, and Data analysis 
-- 🌱 I’m currently learning Data analytics and Business Analytics
-- 💞️ I’m looking to collaborate on projects in Power BI, SQL, Google Analytics 
+- 👀 I’m interested in Data analysis 
+- 🌱 I’m currently learning Data analytics
+- 💞️ I’m looking to collaborate on projects in Power BI, SQL, Excel, Python
 - 📫 Reach me on LinkedIn  
 
 <!---
