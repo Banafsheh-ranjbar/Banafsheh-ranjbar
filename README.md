@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Banafsheh-ranjbar
-- 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to collaborate on projects in Power BI, SQL, Excel, Python
+- 👀 I’m interested in Business Intelligence and Data analysis 
+- 🌱 I’m currently learning BI and Data analytics
+- 💞️ I’m looking to collaborate on projects in Power BI, SQL, Excel, Python,Power Query
 - 📫 Reach me on LinkedIn  
 
 <!---
